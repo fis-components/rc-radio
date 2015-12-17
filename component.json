@@ -1,0 +1,12 @@
+{
+    "name": "rc-radio",
+    "description": "radio ui component for react",
+    "repos": "https://github.com/react-component/radio.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "rc-checkbox": "1.x"
+    },
+    "version": "1.0.3"
+}
